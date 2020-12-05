@@ -5,3 +5,4 @@ git add . or file name
 git commit 
 git remote add origin https://github.com/rohitkulkarni-694/reponame.git
 git push -u origin master 
+end
